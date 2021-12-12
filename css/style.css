@@ -479,4 +479,8 @@ body {
   padding: 16px 36px;
   cursor: pointer;
 }
+
+path.current-floor {
+  opacity: 1;
+}
 /*# sourceMappingURL=style.css.map */
